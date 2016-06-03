@@ -45,10 +45,14 @@ When we make 'commits', we record a range of metadata about that change. As libr
 ### Why use version control?
 At this point you might be wondering why there is any need for librarians to know about version control. You are likely to think this again anytime you get stuck with Git. Although Git doesn't have some of the same immediate applications as other software tools there are some good reasons for librarians to get a better understanding of version control. 
 
-* Research data management 
-* Publishing 
-* collaboration 
-* Talking to tech people
+#### Research data management 
+Librarians are increasingly involved in supporting research data management. An understanding of version control can contribute to an effective data management strategy. 
+
+#### Publishing 
+
+#### Collaboration 
+
+#### Communication 
 
 
 
