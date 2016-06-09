@@ -52,11 +52,10 @@ Librarians are increasingly involved in supporting research data management. An 
 Libraries are increasingly involved in the publishing process, in particular in relation to the rise of open access. Version control systems can offer the potential for exploring new publishing models. This could be limited to pre-publication workflows or journals and other publications could make use of GitHub's 'pages' feature to host their content. The [Programming Historian](http://programminghistorian.org/) is a prominent example of such a publication.
 
 #### Collaboration 
+Linked to the above points, version control offers new means of effective collaboration on a variety of different types of project. The original aim behind version control systems like Git was to allow people across the world to collaborate on large software projects, however, it is also very possible to use Git to collaborate using text documents and other materials. 
 
 #### Communication 
-
-
-
+A final argument in favour of librarians having at least some awareness of version control is the ability to communicate with collegues working in IT/software development. An understanding of version control will allow teams to more effectively communicate ideas. If you run into problems with some open source software (almost) all developers would rather you highlighted the issue on GitHub rather than receiving an emails from multiple people highligting the same issue. 
 
 ### Git vs. GitHub vs. Gitlab
 
