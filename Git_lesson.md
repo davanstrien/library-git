@@ -46,9 +46,10 @@ When we make 'commits', we record a range of metadata about that change. As libr
 At this point you might be wondering why there is any need for librarians to know about version control. You are likely to think this again anytime you get stuck with Git. Although Git doesn't have some of the same immediate applications as other software tools there are some good reasons for librarians to get a better understanding of version control. 
 
 #### Research data management 
-Librarians are increasingly involved in supporting research data management. An understanding of version control can contribute to an effective data management strategy. 
+Librarians are increasingly involved in supporting research data management. An understanding of version control can contribute to an effective data management strategy. For many activities, version control is an obvious means of managing research materials. 
 
 #### Publishing 
+Libraries are increasingly involved in the publishing process, in particular in relation to the rise of open access. Version control systems can offer the potential for exploring new publishing models. This could be limited to pre-publication workflows or journals and other publications could make use of GitHub's 'pages' feature to host their content. The [Programming Historian](http://programminghistorian.org/) is a prominent example of such a publication.
 
 #### Collaboration 
 
